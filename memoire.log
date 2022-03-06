@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.2.8)  6 MAR 2022 11:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.2.8)  6 MAR 2022 18:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -350,7 +350,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 33.
  [1
 
-{C:/Users/LENOVO/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./logo.png>]) (remerciement.tex) [1] (dedicaces1.tex) [2] (dedicaces2.tex) [3] (resume.tex) [4] (memoire.toc [1
+{C:/Users/LENOVO/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./logo.png>]) (memoire.toc [1
 
 ])
 \tf@toc=\write3
@@ -397,19 +397,23 @@ File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1.
  (C:\Latex\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-)
-<img/Allmagne.png, id=48, 1027.84pt x 511.9125pt>
+) [3
+
+]
+<img/Allmagne.png, id=40, 1027.84pt x 511.9125pt>
 File: img/Allmagne.png Graphic file (type png)
 <use img/Allmagne.png>
-Package pdftex.def Info: img/Allmagne.png  used on input line 24.
+Package pdftex.def Info: img/Allmagne.png  used on input line 45.
 (pdftex.def)             Requested size: 441.96259pt x 220.11809pt.
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[3
-
-]
+[4 <./img/Allmagne.png>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -417,7 +421,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[4 <./img/Allmagne.png>]) (chapitre2.tex
+[5]) (chapitre2.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -425,14 +429,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[5]
+[6]
 Chapitre 2.
-<img/Paysage1.jpg, id=63, 227.8463pt x 170.52872pt>
+<img/Paysage1.jpg, id=52, 227.8463pt x 170.52872pt>
 File: img/Paysage1.jpg Graphic file (type jpg)
 <use img/Paysage1.jpg>
 Package pdftex.def Info: img/Paysage1.jpg  used on input line 19.
 (pdftex.def)             Requested size: 216.45274pt x 162.00134pt.
-<img/Miky.jpeg, id=64, 1445.4pt x 813.0375pt>
+<img/Miky.jpeg, id=53, 1445.4pt x 813.0375pt>
 File: img/Miky.jpeg Graphic file (type jpg)
 <use img/Miky.jpeg>
 Package pdftex.def Info: img/Miky.jpeg  used on input line 20.
@@ -442,7 +446,7 @@ Overfull \hbox (50.28351pt too wide) in paragraph at lines 19--22
  [][][] 
  []
 
-[6
+[7
 
 ]
 
@@ -452,7 +456,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[7 <./img/Paysage1.jpg> <./img/Miky.jpeg>]
+[8 <./img/Paysage1.jpg> <./img/Miky.jpeg>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -460,7 +464,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[8]) (chapitre3.tex
+[9]) (chapitre3.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -468,7 +472,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[9]
+[10]
 Chapitre 3.
 
 Overfull \hbox (19.37212pt too wide) in paragraph at lines 13--13
@@ -476,9 +480,9 @@ Overfull \hbox (19.37212pt too wide) in paragraph at lines 13--13
  []
 
 
-LaTeX Warning: Reference `fig:Results' on page 10 undefined on input line 15.
+LaTeX Warning: Reference `fig:Results' on page 11 undefined on input line 15.
 
-<img/pVSa1-eps-converted-to.pdf, id=79, 361.35pt x 252.945pt>
+<img/pVSa1-eps-converted-to.pdf, id=68, 361.35pt x 252.945pt>
 File: img/pVSa1-eps-converted-to.pdf Graphic file (type pdf)
 <use img/pVSa1-eps-converted-to.pdf>
 Package pdftex.def Info: img/pVSa1-eps-converted-to.pdf  used on input line 19.
@@ -487,22 +491,22 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 19.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 19.
-<img/pVSa2-eps-converted-to.pdf, id=80, 361.35pt x 252.945pt>
+<img/pVSa2-eps-converted-to.pdf, id=69, 361.35pt x 252.945pt>
 File: img/pVSa2-eps-converted-to.pdf Graphic file (type pdf)
 <use img/pVSa2-eps-converted-to.pdf>
 Package pdftex.def Info: img/pVSa2-eps-converted-to.pdf  used on input line 20.
 (pdftex.def)             Requested size: 180.67456pt x 126.47218pt.
-<img/pVSa3-eps-converted-to.pdf, id=81, 361.35pt x 252.945pt>
+<img/pVSa3-eps-converted-to.pdf, id=70, 361.35pt x 252.945pt>
 File: img/pVSa3-eps-converted-to.pdf Graphic file (type pdf)
 <use img/pVSa3-eps-converted-to.pdf>
 Package pdftex.def Info: img/pVSa3-eps-converted-to.pdf  used on input line 21.
 (pdftex.def)             Requested size: 180.67456pt x 126.47218pt.
-<img/pVSa4-eps-converted-to.pdf, id=82, 361.35pt x 252.945pt>
+<img/pVSa4-eps-converted-to.pdf, id=71, 361.35pt x 252.945pt>
 File: img/pVSa4-eps-converted-to.pdf Graphic file (type pdf)
 <use img/pVSa4-eps-converted-to.pdf>
 Package pdftex.def Info: img/pVSa4-eps-converted-to.pdf  used on input line 22.
 (pdftex.def)             Requested size: 180.67456pt x 126.47218pt.
-[10
+[11
 
 ]
 
@@ -512,7 +516,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[11 <./img/pVSa1-eps-converted-to.pdf> <./img/pVSa2-eps-converted-to.pdf> <./img/pVSa3-eps-converted-to.pdf> <./img/pVSa4-eps-converted-to.pdf>]
+[12 <./img/pVSa1-eps-converted-to.pdf> <./img/pVSa2-eps-converted-to.pdf> <./img/pVSa3-eps-converted-to.pdf> <./img/pVSa4-eps-converted-to.pdf>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -520,7 +524,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[12]) (conclusion.tex
+[13]) (conclusion.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -528,7 +532,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[13] [14
+[14] [15
 
 ])
 
@@ -538,15 +542,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[15] (memoire.bbl) [16
+[16] (memoire.bbl) [17
 
 ] (annexeA.tex
 Annexe A.
-) (annexeB.tex [17
+) (annexeB.tex [18
 
 ]
 Annexe B.
-) [18
+) [19
 
 ] (memoire.aux)
 
@@ -557,17 +561,17 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6440 strings out of 478659
- 110325 string characters out of 2862874
- 426284 words of memory out of 3000000
- 24398 multiletter control sequences out of 15000+600000
- 413505 words of font info for 53 fonts, out of 8000000 for 9000
+ 6420 strings out of 478659
+ 109843 string characters out of 2862874
+ 427292 words of memory out of 3000000
+ 24390 multiletter control sequences out of 15000+600000
+ 413158 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,12n,79p,309b,438s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Latex/fonts/enc/dvips/base/8r.enc}<C:/Latex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Latex/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Latex/fonts/type1/urw/times/utmr8a.pfb>
-Output written on memoire.pdf (28 pages, 2924016 bytes).
+ 69i,12n,79p,309b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Latex/fonts/enc/dvips/base/8r.enc}<C:/Latex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Latex/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Latex/fonts/type1/urw/times/utmr8a.pfb>
+Output written on memoire.pdf (25 pages, 2915175 bytes).
 PDF statistics:
- 204 PDF objects out of 1000 (max. 8388607)
+ 190 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
