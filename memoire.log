@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.2.8)  6 MAR 2022 10:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.2.8)  6 MAR 2022 11:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -112,6 +112,9 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen156
 \Gin@req@width=\dimen157
+) (C:\Latex\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 ) (C:\Latex\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footers
 \f@nch@headwidth=\skip49
@@ -230,20 +233,20 @@ LaTeX Warning: Label `sub@' multiply defined.
 )
 \openout1 = `memoire.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -279,12 +282,12 @@ LaTeX Font Info:    ... okay on input line 31.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \degres on input line 31.
-LaTeX Info: Redefining \up on input line 31.
+LaTeX Info: Redefining \degres on input line 32.
+LaTeX Info: Redefining \up on input line 32.
 
 Package french.ldf Warning: OT1 encoding should not be used for French.
 (french.ldf)                Add \usepackage[T1]{fontenc} to the preamble
-(french.ldf)                of your document; reported on input line 31.
+(french.ldf)                of your document; reported on input line 32.
 
 (C:\Latex\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -554,17 +557,17 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6349 strings out of 478659
- 109065 string characters out of 2862874
- 425177 words of memory out of 3000000
- 24312 multiletter control sequences out of 15000+600000
- 413336 words of font info for 52 fonts, out of 8000000 for 9000
+ 6440 strings out of 478659
+ 110325 string characters out of 2862874
+ 426284 words of memory out of 3000000
+ 24398 multiletter control sequences out of 15000+600000
+ 413505 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,12n,79p,309b,438s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Latex/fonts/enc/dvips/base/8r.enc}<C:/Latex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Latex/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Latex/fonts/type1/urw/times/utmr8a.pfb>
-Output written on memoire.pdf (28 pages, 2916499 bytes).
+{C:/Latex/fonts/enc/dvips/base/8r.enc}<C:/Latex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Latex/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Latex/fonts/type1/urw/times/utmr8a.pfb>
+Output written on memoire.pdf (28 pages, 2924016 bytes).
 PDF statistics:
- 199 PDF objects out of 1000 (max. 8388607)
+ 204 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

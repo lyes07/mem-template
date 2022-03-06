@@ -155,6 +155,17 @@ INPUT C:\Latex\tex\latex\graphics-def\pdftex.def
 INPUT C:\Latex\tex\latex\graphics-def\pdftex.def
 INPUT C:\Latex\tex\latex\graphics-def\pdftex.def
 INPUT C:\Latex\tex\latex\graphics\graphics.sty
+INPUT C:\Latex\tex\latex\url\url.sty
+INPUT C:\Latex\tex\latex\url\url.sty
+INPUT C:\Latex\tex\latex\url\url.sty
+INPUT C:\Latex\tex\latex\url\url.sty
+INPUT C:\Latex\tex\latex\url\url.sty
+INPUT C:\Latex\tex\latex\url\url.sty
+INPUT C:\Latex\tex\latex\url\url.sty
+INPUT C:\Latex\tex\latex\url\url.sty
+INPUT C:\Latex\tex\latex\url\url.sty
+INPUT C:\Latex\tex\latex\url\url.sty
+INPUT C:\Latex\tex\latex\url\url.sty
 INPUT C:\Latex\tex\latex\fancyhdr\fancyhdr.sty
 INPUT C:\Latex\tex\latex\fancyhdr\fancyhdr.sty
 INPUT C:\Latex\tex\latex\fancyhdr\fancyhdr.sty
@@ -516,6 +527,7 @@ INPUT .\memoire.bbl
 INPUT memoire.bbl
 INPUT .\memoire.bbl
 INPUT memoire.bbl
+INPUT C:\Latex\fonts\tfm\public\cm\cmtt12.tfm
 INPUT .\annexeA.tex
 INPUT annexeA.tex
 INPUT .\annexeA.tex
@@ -546,6 +558,8 @@ INPUT C:\Latex\fonts\type1\public\amsfonts\cm\cmr8.pfb
 INPUT C:\Latex\fonts\type1\public\amsfonts\cm\cmr8.pfb
 INPUT C:\Latex\fonts\type1\public\amsfonts\cm\cmti12.pfb
 INPUT C:\Latex\fonts\type1\public\amsfonts\cm\cmti12.pfb
+INPUT C:\Latex\fonts\type1\public\amsfonts\cm\cmtt12.pfb
+INPUT C:\Latex\fonts\type1\public\amsfonts\cm\cmtt12.pfb
 INPUT C:\Latex\fonts\type1\urw\helvetic\uhvr8a.pfb
 INPUT C:\Latex\fonts\type1\urw\helvetic\uhvr8a.pfb
 INPUT C:\Latex\fonts\type1\urw\times\utmr8a.pfb
