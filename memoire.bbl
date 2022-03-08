@@ -26,24 +26,30 @@ Interactive courses.
   October 2018.
 \newblock Accessed: 2022-3-6.
 
+\bibitem{harris2010digital}
+David Harris and Sarah~L Harris.
+\newblock {\em Digital design and computer architecture}.
+\newblock Morgan Kaufmann, 2010.
+\newblock Accessed: 2022-3-8.
+
 \bibitem{STRM-1-Book-Taha-Zerrouki}
 {Dr.Taha Zerrouki}.
 \newblock Strm 1 book.
 \newblock
   \url{https://archive.org/details/strm-1-book-taha-zerrouki-09-10-2021/STRM-1-Book-Taha-Zerrouki-25-12-2021/},
-  2021.
-\newblock Accessed: 2022-3-6.
+  October 2021.
+\newblock Accessed: 2022-3-7.
 
 \bibitem{STRM-Tests}
 {Dr.Taha Zerrouki}.
 \newblock Strm tests.
 \newblock \url{https://github.com/linuxscout/strm-tests/blob/master/README.md}.
-\newblock Accessed: 2022-3-6.
+\newblock Accessed: 2022-3-7.
 
 \bibitem{Computer-Architecture-saylor-academy}
 {saylor academy}.
 \newblock Computer architecture.
 \newblock \url{https://learn.saylor.org/course/CS301}.
-\newblock Accessed: 2022-3-6.
+\newblock Accessed: 2022-3-7.
 
 \end{thebibliography}
