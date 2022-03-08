@@ -1,8 +1,8 @@
 \babel@toc {french}{}\relax 
 \contentsline {chapter}{Contents}{i}{}%
-\contentsline {chapter}{Table of figures}{ii}{}%
-\contentsline {chapter}{List of tables}{iii}{}%
-\contentsline {chapter}{Abreviations list}{iv}{}%
+\contentsline {chapter}{Table of figures}{iii}{}%
+\contentsline {chapter}{List of tables}{iv}{}%
+\contentsline {chapter}{Abreviations list}{v}{}%
 \contentsline {chapter}{\numberline {1}Preliminary study}{1}{}%
 \contentsline {section}{\numberline {1.1}Introduction}{1}{}%
 \contentsline {section}{\numberline {1.2}General Definitions}{1}{}%
@@ -18,8 +18,9 @@
 \contentsline {subsubsection}{Digital Design and Computer Architecture :}{4}{}%
 \contentsline {subsubsection}{STRM 1 Book :}{4}{}%
 \contentsline {section}{\numberline {1.4}Analysis of existing applications}{5}{}%
-\contentsline {subsection}{\numberline {1.4.1}STRM Tests}{5}{}%
+\contentsline {subsection}{\numberline {1.4.1}STRM Tests :}{5}{}%
 \contentsline {subsection}{\numberline {1.4.2}Computer Architecture from saylor academy}{5}{}%
-\contentsline {subsection}{\numberline {1.4.3}BooleanTT}{6}{}%
-\contentsline {subsection}{\numberline {1.4.4}DecToBin}{6}{}%
-\contentsline {chapter}{Bibliography}{7}{}%
+\contentsline {subsection}{\numberline {1.4.3}BooleanTT :}{6}{}%
+\contentsline {subsection}{\numberline {1.4.4}DecToBin :}{6}{}%
+\contentsline {subsection}{\numberline {1.4.5}Summary :}{7}{}%
+\contentsline {chapter}{Bibliography}{8}{}%

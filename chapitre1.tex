@@ -84,40 +84,40 @@ The book is also bilingual, with lessons in French and translated into Arabic, i
 
 
  \section{Analysis of existing applications}
- In this presentation ,we will talk about applications, books and similar resources about computer science, 
- where we will discuss its most important characteristics and advantages.
- There are many applications similar to our topic, but they do not contain all computer science topics.
- As for books and websites, there are many that include all computer science lessons, but they do not 
- contain the practical aspect that we will work on.
+ A very important part in developing a new project in the domain of computer science is looking for and analyzing already
+  existing solutions to the project you are working on, in our case the project is making an \textbf{Interactive Course For Computer Architecture}.
+  if there is no already existing solutions you would look for solutions that are somehow related (similar) to the project at hand.\\
+  In our case and as far as our search goes there are no already existing solutions(neither apps nor websites), but there exists some tools, websites and mobile apps that are somewhat related to our project. like:
+
+
+ \subsection{STRM Tests :}
+ This tool was build by  Dr. Taha Zerrouki to generate and create random tests for computer architecture 1 (STRM 1) - first Year MI in Algerian universities.\cite{STRM-Tests}
+ the features of the \textbf{STRM Tests} tool\cite{STRM-Tests} are:
+
+\begin{itemize}
+	\item Generate checks and questions with solutions.
+	\item Supports the following classes:
+	\begin{enumerate}
+		\item Enumeration systems.
+		\item Representation of natural and real numbers and letters.
+		\item Encoding information.
+		\item Boolean algebra.
+	\end{enumerate}
+	\item Generate answers:
+	\begin{enumerate}
+		\item Possibility to draw a logical function diagram.
+		\item Generate Karnoff tables.
+		\item Generating graphic solutions to Karnoff's table.
+	\end{enumerate}
+	\item Generate duplicate forms of questions for easier typing.
+	\item Random generation of questions.
+\end{itemize}
+
  
 
- \subsection{STRM Tests}
- Dr.Taha built this app to generate and create random tests for Stucture Machine 1- first Year MI, Mathematiques and Informatiques
-  in Algerian universities.\cite{STRM-Tests}
- 
- What this app contains:
- • Generate checks and questions with solutions
- 
- • Supports the following classes:
- 
- - Enumeration systems.
- - Representation of natural and real numbers and letters.
- - Encoding information.
- - Boolean algebra.
- 
- • Generate answers:
- 
- - Possibility to draw a logical function diagram.
- - Generate Karnoff tables.
- - Generating graphic solutions to Karnoff's table.
- 
- • Generate duplicate forms of questions for easier typing.
- 
- • Random generation of questions.
- 
  \subsection{Computer Architecture from saylor academy}
  Saylor Academy is a nonprofit initiative working since 2008 to offer free and open online courses to all who want to learn.
-  We offer nearly 100 full-length courses at the college and professional levels, each of which is available right now .
+  they offer nearly 100 full-length courses at the college and professional levels, each of which is available right now .
  Modern computer technology requires an understanding of both hardware and software, since the interaction between the two 
  offers a framework for mastering the fundamentals of computing. The purpose of this course is to cultivate an understanding 
  of modern computing technology through an in-depth study of the interface between hardware and software. In this course,
@@ -129,43 +129,45 @@ The book is also bilingual, with lessons in French and translated into Arabic, i
  
  
  
- \subsection{BooleanTT}
- This is a simple and easy-use app to Simplify/Minimize Boolean expressions, solve Karnaugh maps,generate Truth-Tables of Boolean expressions, generate SOP and POS from Truth-Table easily. And you can check logic circuit also.
- And also it will helps to learn about basic logic gates theories.
+ \subsection{BooleanTT :}
+ This is a simple and easy-use app developed by Hashan Chamara Rajapaksa to :
+ \begin{itemize}
+	 \item Simplify/Minimize Boolean expressions
+	 \item solve Karnaugh maps
+	 \item generate Truth-Tables of Boolean expressions
+	 \item generate SOP and POS from Truth-Table easily
+	 \item check logic circuit
+ \end{itemize}
+ And also it will help you learn about basic logic gates theories.\cite{BooleanTT}
  
- \subsection{DecToBin}
- This application allows to encode numbers in base 10 to different formats of binary coding:
- . IEEE 32 and 64 bits
- . One's and Two;s Complement
- . Binary Code Decimal
- . Excess to N
- . Exit to N -1
- . Signed Magnitude
- . Simple and double precision
- Includes a binary calculator that can add, subtract, multiply and divide in binary and show results in binary and decimal.
- Includes an option to copy to the clipboard.
+ \subsection{DecToBin :}
+ This application is developed by Kyssnar, it allows you to encode numbers in base 10 to different formats of binary coding:
+ \begin{itemize}
+	\item IEEE 32 and 64 bits
+	\item One's and Two's Complement
+	\item Binary Code Decimal
+	\item Excess to N
+	\item Excess to N - 1
+	\item Signed Magnitude
+	\item Simple and double precision
+\end{itemize}
+ Also includes a binary calculator that can add, subtract, multiply and divide in binary and show results in binary and decimal.\cite{dectobin}
  
-
-See Table \ref{tab:tableau1}
+ \subsection{Summary :}
+We summarized the previous study in this table \ref{tab:AnalysisOfExistingSummaryTable}.
 
 \begin{table}[h!]
 \begin{center}
-	\begin{tabular}{|l|l|}
-		\hline
-		\textbf{Température en C} & \textbf{Température en F} \\
-		\hline
-		\hline
-		0 & ... \\
-		\hline
-		1 & ... \\
-		\hline
-		3 & ... \\
-		\hline
-		... & ... \\
-		\hline
-	\end{tabular}
+		\begin{tabular}{c|lll|lcl|}
+		\cline{2-7}
+		\multicolumn{1}{l|}{}                   & \multicolumn{3}{c|}{Courses}                                                                                                                     & \multicolumn{3}{c|}{Tests}                                                                                                                       \\ \cline{2-7} 
+		\multicolumn{1}{l|}{\multirow{-2}{*}{}} & \multicolumn{1}{l|}{Intro CS}                  & \multicolumn{1}{l|}{Code Reprsnt}              & Bool Algebr                                    & \multicolumn{1}{l|}{Intro CS}                  & \multicolumn{1}{l|}{Code Reprsnt}              & Bool Algebr                                    \\ \hline
+		\multicolumn{1}{|c|}{STRM Tests}        & \multicolumn{1}{l|}{}                          & \multicolumn{1}{l|}{}                          &                                                & \multicolumn{1}{c|}{\cellcolor[HTML]{96FFFB}X} & \multicolumn{1}{c|}{\cellcolor[HTML]{96FFFB}X} & \multicolumn{1}{c|}{\cellcolor[HTML]{96FFFB}X} \\ \hline
+		\multicolumn{1}{|c|}{CS301}             & \multicolumn{1}{c|}{\cellcolor[HTML]{96FFFB}X} & \multicolumn{1}{c|}{\cellcolor[HTML]{96FFFB}X} & \multicolumn{1}{c|}{\cellcolor[HTML]{96FFFB}X} & \multicolumn{1}{l|}{}                          & \multicolumn{1}{l|}{}                          &                                                \\ \hline
+		\multicolumn{1}{|c|}{BooleanTT}         & \multicolumn{1}{l|}{}                          & \multicolumn{1}{l|}{}                          & \multicolumn{1}{c|}{\cellcolor[HTML]{96FFFB}X} & \multicolumn{1}{l|}{}                          & \multicolumn{1}{c|}{\cellcolor[HTML]{FFFFFF}}  & \multicolumn{1}{c|}{\cellcolor[HTML]{96FFFB}X} \\ \hline
+		\multicolumn{1}{|c|}{DecToBin}          & \multicolumn{1}{l|}{}                          & \multicolumn{1}{l|}{}                          &                                                & \multicolumn{1}{l|}{}                          & \multicolumn{1}{c|}{\cellcolor[HTML]{96FFFB}X} &                                                \\ \hline
+		\end{tabular}
 \end{center}
-\caption{Titre du tableau}
-\label{tab:tableau1}
+\caption{Analysis of existing summary table}
+\label{tab:AnalysisOfExistingSummaryTable}
 \end{table}
-
