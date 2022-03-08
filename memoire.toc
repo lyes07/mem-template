@@ -1,8 +1,8 @@
 \babel@toc {french}{}\relax 
 \contentsline {chapter}{Contents}{i}{}%
-\contentsline {chapter}{Table of figures}{ii}{}%
-\contentsline {chapter}{List of tables}{iii}{}%
-\contentsline {chapter}{Abreviations list}{iv}{}%
+\contentsline {chapter}{Table of figures}{iii}{}%
+\contentsline {chapter}{List of tables}{iv}{}%
+\contentsline {chapter}{Abreviations list}{v}{}%
 \contentsline {chapter}{General Introduction}{1}{}%
 \contentsline {paragraph}{}{1}{}%
 \contentsline {paragraph}{}{1}{}%
@@ -20,9 +20,16 @@
 \contentsline {subsubsection}{In our case}{4}{}%
 \contentsline {section}{\numberline {1.3}Study of the existing}{5}{}%
 \contentsline {subsection}{\numberline {1.3.1}Structure of the computer architecture course}{5}{}%
-\contentsline {subsubsection}{Une sous sous section}{6}{}%
-\contentsline {paragraph}{Un paragraphe}{6}{}%
-\contentsline {section}{\numberline {1.4}Une deuxième section principale}{6}{}%
-\contentsline {subsection}{\numberline {1.4.1}Une sous section}{6}{}%
-\contentsline {subsection}{\numberline {1.4.2}Exemple d'un tableau}{7}{}%
-\contentsline {chapter}{Bibliography}{8}{}%
+\contentsline {section}{\numberline {1.4}Analysis of existing applications}{6}{}%
+\contentsline {subsection}{\numberline {1.4.1}STRM 1 Book Taha Zerrouki}{6}{}%
+\contentsline {subsubsection}{About the author}{6}{}%
+\contentsline {subsection}{\numberline {1.4.2}STRM Tests}{6}{}%
+\contentsline {subsection}{\numberline {1.4.3}Computer Architecture from saylor academy}{7}{}%
+\contentsline {subsection}{\numberline {1.4.4}BooleanTT}{7}{}%
+\contentsline {subsection}{\numberline {1.4.5}DecToBin}{8}{}%
+\contentsline {subsubsection}{Une sous sous section}{8}{}%
+\contentsline {paragraph}{Un paragraphe}{8}{}%
+\contentsline {section}{\numberline {1.5}Une deuxième section principale}{8}{}%
+\contentsline {subsection}{\numberline {1.5.1}Une sous section}{9}{}%
+\contentsline {subsection}{\numberline {1.5.2}Exemple d'un tableau}{9}{}%
+\contentsline {chapter}{Bibliography}{10}{}%

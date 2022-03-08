@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.2.8)  7 MAR 2022 11:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.2.8)  8 MAR 2022 12:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -313,25 +313,33 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 33.
  [1
 
-{C:/Users/LENOVO/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./logo.png>]) (memoire.toc)
+{C:/Users/LENOVO/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./logo.png>]) (memoire.toc [1
+
+])
 \tf@toc=\write3
 \openout3 = `memoire.toc'.
 
- [1
 
-] (memoire.lof)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2] (memoire.lof)
 \tf@lof=\write4
 \openout4 = `memoire.lof'.
 
- [2
+ [3
 
 ] (memoire.lot)
 \tf@lot=\write5
 \openout5 = `memoire.lot'.
 
- [3
+ [4
 
-] (liste_abreviations.tex) [4
+] (liste_abreviations.tex) [5
 
 ] (introduction.tex [1
 
@@ -367,10 +375,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [4]
-<img/STRM.png, id=39, 686.565pt x 681.54625pt>
+<img/STRM.png, id=42, 686.565pt x 681.54625pt>
 File: img/STRM.png Graphic file (type png)
 <use img/STRM.png>
-Package pdftex.def Info: img/STRM.png  used on input line 55.
+Package pdftex.def Info: img/STRM.png  used on input line 53.
 (pdftex.def)             Requested size: 432.53824pt x 429.3764pt.
 
 
@@ -388,7 +396,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[6])
+[6]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -396,21 +404,47 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[7] (memoire.bbl) [8
+[7]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[8])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[9] (memoire.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 30--36
+[]\OT1/cmr/m/n/12 Dr.Taha Zer-rouki.  Strm 1 book.  $\OT1/cmtt/m/n/12 https : / / archive .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--36
+\OT1/cmtt/m/n/12 org / details / strm-[]1-[]book-[]taha-[]zerrouki-[]09-[]10-[]2021 /
+ []
+
+) [10
 
 ] (memoire.aux) ) 
 Here is how much of TeX's memory you used:
- 6345 strings out of 478659
- 107848 string characters out of 2862874
- 426231 words of memory out of 3000000
- 24338 multiletter control sequences out of 15000+600000
- 413158 words of font info for 52 fonts, out of 8000000 for 9000
+ 6353 strings out of 478659
+ 107984 string characters out of 2862874
+ 425243 words of memory out of 3000000
+ 24345 multiletter control sequences out of 15000+600000
+ 413495 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,11n,79p,298b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Latex/fonts/enc/dvips/base/8r.enc}<C:/Latex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Latex/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Latex/fonts/type1/urw/times/utmr8a.pfb>
-Output written on memoire.pdf (13 pages, 170809 bytes).
+ 69i,12n,79p,327b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\LENOVO\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk>{C:/Latex/fonts/enc/dvips/base/8r.enc}<C:/Latex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Latex/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Latex/fonts/type1/urw/times/utmr8a.pfb>
+Output written on memoire.pdf (16 pages, 182243 bytes).
 PDF statistics:
- 95 PDF objects out of 1000 (max. 8388607)
+ 109 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

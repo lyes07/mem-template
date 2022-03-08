@@ -5,44 +5,47 @@ Reallocating 'name_of_file' (item size: 1) to 6 items.
 The style file: unsrt.bst
 Reallocating 'name_of_file' (item size: 1) to 7 items.
 Database file #1: biblio.bib
-You've used 4 entries,
+Warning--string name "october" is undefined
+--line 129 of file biblio.bib
+You've used 7 entries,
             1791 wiz_defined-function locations,
-            469 strings with 4134 characters,
-and the built_in function-call counts, 518 in all, are:
-= -- 46
-> -- 10
+            485 strings with 4600 characters,
+and the built_in function-call counts, 924 in all, are:
+= -- 83
+> -- 22
 < -- 0
-+ -- 6
-- -- 2
-* -- 8
-:= -- 75
-add.period$ -- 14
-call.type$ -- 4
-change.case$ -- 4
++ -- 12
+- -- 5
+* -- 9
+:= -- 139
+add.period$ -- 26
+call.type$ -- 7
+change.case$ -- 7
 chr.to.int$ -- 0
-cite$ -- 4
-duplicate$ -- 20
-empty$ -- 73
-format.name$ -- 2
-if$ -- 125
+cite$ -- 7
+duplicate$ -- 35
+empty$ -- 127
+format.name$ -- 5
+if$ -- 222
 int.to.chr$ -- 0
-int.to.str$ -- 4
+int.to.str$ -- 7
 missing$ -- 0
-newline$ -- 25
-num.names$ -- 2
-pop$ -- 28
+newline$ -- 43
+num.names$ -- 5
+pop$ -- 48
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 10
+skip$ -- 16
 stack$ -- 0
 substring$ -- 0
-swap$ -- 4
+swap$ -- 7
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 2
-width$ -- 5
-write$ -- 44
+while$ -- 5
+width$ -- 8
+write$ -- 78
+(There was 1 warning)

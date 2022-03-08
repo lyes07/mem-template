@@ -414,6 +414,7 @@ INPUT .\memoire.toc
 INPUT memoire.toc
 INPUT memoire.toc
 OUTPUT memoire.toc
+INPUT C:\Latex\fonts\tfm\public\cm\cmti12.tfm
 INPUT .\memoire.lof
 INPUT memoire.lof
 INPUT memoire.lof
@@ -434,7 +435,6 @@ INPUT .\chapitre1.tex
 INPUT chapitre1.tex
 INPUT .\chapitre1.tex
 INPUT chapitre1.tex
-INPUT C:\Latex\fonts\tfm\public\cm\cmti12.tfm
 INPUT C:\Latex\tex\latex\psnfss\ot1phv.fd
 INPUT C:\Latex\tex\latex\psnfss\ot1phv.fd
 INPUT C:\Latex\tex\latex\psnfss\ot1phv.fd
@@ -456,12 +456,15 @@ INPUT .\img\STRM.png
 INPUT .\img\STRM.png
 INPUT .\img\STRM.png
 INPUT .\img\STRM.png
+INPUT C:\Latex\fonts\tfm\jknappen\ec\tcrm1200.tfm
 INPUT .\memoire.bbl
 INPUT memoire.bbl
 INPUT .\memoire.bbl
 INPUT memoire.bbl
 INPUT C:\Latex\fonts\tfm\public\cm\cmtt12.tfm
 INPUT memoire.aux
+INPUT C:\Users\LENOVO\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
+INPUT C:\Users\LENOVO\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
 INPUT C:\Latex\fonts\enc\dvips\base\8r.enc
 INPUT C:\Latex\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Latex\fonts\type1\public\amsfonts\cm\cmbx12.pfb
