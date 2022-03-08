@@ -19,8 +19,9 @@
 \contentsline {subsubsection}{STRM 1 Book :}{4}{}%
 \contentsline {section}{\numberline {1.4}Analysis of existing applications}{5}{}%
 \contentsline {subsection}{\numberline {1.4.1}STRM Tests :}{5}{}%
-\contentsline {subsection}{\numberline {1.4.2}Computer Architecture from saylor academy}{5}{}%
+\contentsline {subsection}{\numberline {1.4.2}CS301 Computer Architecture :}{5}{}%
 \contentsline {subsection}{\numberline {1.4.3}BooleanTT :}{6}{}%
 \contentsline {subsection}{\numberline {1.4.4}DecToBin :}{6}{}%
 \contentsline {subsection}{\numberline {1.4.5}Summary :}{7}{}%
+\contentsline {section}{\numberline {1.5}Conclusion}{7}{}%
 \contentsline {chapter}{Bibliography}{8}{}%
