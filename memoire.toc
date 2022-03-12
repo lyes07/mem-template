@@ -1,27 +1,39 @@
-\babel@toc {french}{}\relax 
-\contentsline {chapter}{Contents}{i}{}%
-\contentsline {chapter}{Table of figures}{iii}{}%
-\contentsline {chapter}{List of tables}{iv}{}%
-\contentsline {chapter}{Abreviations list}{v}{}%
-\contentsline {chapter}{\numberline {1}Preliminary study}{1}{}%
-\contentsline {section}{\numberline {1.1}Introduction}{1}{}%
-\contentsline {section}{\numberline {1.2}General Definitions}{1}{}%
-\contentsline {subsection}{\numberline {1.2.1}Website}{1}{}%
-\contentsline {subsection}{\numberline {1.2.2}Responsive Web Design}{1}{}%
-\contentsline {subsection}{\numberline {1.2.3}Interactive Course}{2}{}%
-\contentsline {subsection}{\numberline {1.2.4}Computer Architecture}{2}{}%
-\contentsline {subsubsection}{In general}{2}{}%
-\contentsline {subsubsection}{In our case}{2}{}%
-\contentsline {section}{\numberline {1.3}Study of the existing}{3}{}%
-\contentsline {subsection}{\numberline {1.3.1}Structure of the computer architecture course}{3}{}%
-\contentsline {subsection}{\numberline {1.3.2}Computer architecture course}{4}{}%
-\contentsline {subsubsection}{Digital Design and Computer Architecture :}{4}{}%
-\contentsline {subsubsection}{STRM 1 Book :}{4}{}%
-\contentsline {section}{\numberline {1.4}Analysis of existing applications}{5}{}%
-\contentsline {subsection}{\numberline {1.4.1}STRM Tests :}{5}{}%
-\contentsline {subsection}{\numberline {1.4.2}CS301 Computer Architecture :}{5}{}%
-\contentsline {subsection}{\numberline {1.4.3}BooleanTT :}{6}{}%
-\contentsline {subsection}{\numberline {1.4.4}DecToBin :}{6}{}%
-\contentsline {subsection}{\numberline {1.4.5}Summary :}{7}{}%
-\contentsline {section}{\numberline {1.5}Conclusion}{7}{}%
-\contentsline {chapter}{Bibliography}{8}{}%
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{Contents}{i}{figure.caption.1}%
+\contentsline {chapter}{Table of figures}{iii}{figure.caption.1}%
+\contentsline {chapter}{List of tables}{iv}{figure.caption.1}%
+\contentsline {chapter}{Abreviations list}{v}{figure.caption.1}%
+\contentsline {chapter}{\numberline {1}Preliminary study}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Introduction}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}General Definitions}{1}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Website}{1}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Responsive Web Design}{1}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Interactive Course}{2}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}Computer Architecture}{2}{subsection.1.2.4}%
+\contentsline {subsubsection}{In general}{2}{section*.2}%
+\contentsline {subsubsection}{In our case}{2}{section*.3}%
+\contentsline {section}{\numberline {1.3}Study of the existing}{3}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Structure of the computer architecture course}{3}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Computer architecture course}{4}{subsection.1.3.2}%
+\contentsline {subsubsection}{Digital Design and Computer Architecture :}{4}{section*.5}%
+\contentsline {subsubsection}{STRM 1 Book :}{4}{section*.6}%
+\contentsline {section}{\numberline {1.4}Analysis of existing applications}{5}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}STRM Tests :}{5}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}CS301 Computer Architecture :}{6}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}BooleanTT :}{6}{subsection.1.4.3}%
+\contentsline {subsection}{\numberline {1.4.4}DecToBin :}{7}{subsection.1.4.4}%
+\contentsline {subsection}{\numberline {1.4.5}Summary :}{7}{subsection.1.4.5}%
+\contentsline {section}{\numberline {1.5}Conclusion}{8}{section.1.5}%
+\contentsline {chapter}{\numberline {2}Conceptual study}{9}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Section principale}{9}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Exemple d'insertion de 02 figures en même temps:}{9}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Une sous section}{9}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Une une autre sous section}{10}{subsection.2.1.3}%
+\contentsline {subsubsection}{Une sous sous section}{10}{section*.9}%
+\contentsline {paragraph}{Un paragraphe}{11}{section*.10}%
+\contentsline {section}{\numberline {2.2}Une deuxième section principale}{11}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Une sous section}{11}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Une autre sous section}{11}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Une autre sous section}{12}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Conclusion}{12}{section.2.3}%
+\contentsline {chapter}{Bibliography}{13}{section.2.3}%
