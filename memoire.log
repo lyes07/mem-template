@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.2.8)  14 MAR 2022 15:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.2.8)  15 MAR 2022 22:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -422,7 +422,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
  (page_garde.tex
-<logo.png, id=127, 119.44624pt x 158.5925pt>
+<logo.png, id=111, 119.44624pt x 158.5925pt>
 File: logo.png Graphic file (type png)
 <use logo.png>
 Package pdftex.def Info: logo.png  used on input line 5.
@@ -496,11 +496,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [2]
-<img/STRM.png, id=219, 686.565pt x 681.54625pt>
+<img/STRM.png, id=201, 686.565pt x 681.54625pt>
 File: img/STRM.png Graphic file (type png)
 <use img/STRM.png>
-Package pdftex.def Info: img/STRM.png  used on input line 53.
-(pdftex.def)             Requested size: 432.53824pt x 429.3764pt.
+Package pdftex.def Info: img/STRM.png  used on input line 54.
+(pdftex.def)             Requested size: 418.80405pt x 415.7426pt.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -511,9 +511,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [3 <./img/STRM.png>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 82.
+(Font)              <7> on input line 83.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 82.
+(Font)              <5> on input line 83.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -539,7 +539,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [6]
-Overfull \hbox (50.77515pt too wide) in paragraph at lines 166--175
+Overfull \hbox (50.77515pt too wide) in paragraph at lines 167--176
  [] 
  []
 
@@ -561,24 +561,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [8]
 Chapter 2.
-<img/Paysage1.jpg, id=278, 227.8463pt x 170.52872pt>
+<img/Paysage1.jpg, id=260, 227.8463pt x 170.52872pt>
 File: img/Paysage1.jpg Graphic file (type jpg)
 <use img/Paysage1.jpg>
-Package pdftex.def Info: img/Paysage1.jpg  used on input line 19.
+Package pdftex.def Info: img/Paysage1.jpg  used on input line 14.
 (pdftex.def)             Requested size: 216.45274pt x 162.00134pt.
-<img/Miky.jpeg, id=279, 1445.4pt x 813.0375pt>
+<img/Miky.jpeg, id=261, 1445.4pt x 813.0375pt>
 File: img/Miky.jpeg Graphic file (type jpg)
 <use img/Miky.jpeg>
-Package pdftex.def Info: img/Miky.jpeg  used on input line 20.
+Package pdftex.def Info: img/Miky.jpeg  used on input line 15.
 (pdftex.def)             Requested size: 289.07487pt x 162.60461pt.
 
-Overfull \hbox (50.28351pt too wide) in paragraph at lines 19--22
+Overfull \hbox (50.28351pt too wide) in paragraph at lines 14--17
  [][][][] 
  []
 
 [9
 
-]
+ <./img/Paysage1.jpg> <./img/Miky.jpeg>])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -586,38 +586,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[10 <./img/Paysage1.jpg> <./img/Miky.jpeg>]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[11])
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[12] (memoire.bbl
+[10] (memoire.bbl
 Underfull \hbox (badness 2269) in paragraph at lines 4--9
 []\OT1/cmr/m/n/12 Techopedia.  Web-site.  [][]$https : / / www . techopedia . com / denition / 5411 / website.$[][],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--42
+Underfull \hbox (badness 10000) in paragraph at lines 30--36
 []\OT1/cmr/m/n/12 Dr.Taha Zer-rouki.  Strm 1 book.  [][]$https : / / archive . org / details /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--42
+Underfull \hbox (badness 10000) in paragraph at lines 30--36
 \OT1/cmr/m/n/12 strm-[]1-[]book-[]taha-[]zerrouki-[]09-[]10-[]2021 / STRM-[]1-[]Book-[]Taha-[]Zerrouki-[]25-[]12-[]2021/$[][],
  []
 
-[13
+[11
 
 ])
 
@@ -627,25 +611,25 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[14] (memoire.aux)
+[12] (memoire.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `memoire.out' has not changed.
-(rerunfilecheck)             Checksum: C341A8921E63EC87B1AF8620CCDA9333;5078.
+(rerunfilecheck)             Checksum: BC8B2C80119DB81A46187B1D44875BFC;4412.
  ) 
 Here is how much of TeX's memory you used:
- 12521 strings out of 478659
- 200357 string characters out of 2862874
- 536590 words of memory out of 3000000
- 30349 multiletter control sequences out of 15000+600000
+ 12511 strings out of 478659
+ 200217 string characters out of 2862874
+ 536593 words of memory out of 3000000
+ 30345 multiletter control sequences out of 15000+600000
  413326 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,12n,79p,445b,508s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Latex/fonts/enc/dvips/base/8r.enc} <C:\Users\LENOVO\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Latex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Latex/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Latex/fonts/type1/urw/times/utmr8a.pfb>
-Output written on memoire.pdf (20 pages, 1598840 bytes).
+Output written on memoire.pdf (18 pages, 1592865 bytes).
 PDF statistics:
- 393 PDF objects out of 1000 (max. 8388607)
- 78 named destinations out of 1000 (max. 500000)
- 277 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 364 PDF objects out of 1000 (max. 8388607)
+ 72 named destinations out of 1000 (max. 500000)
+ 245 words of extra memory for PDF output out of 10000 (max. 10000000)
 

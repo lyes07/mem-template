@@ -26,12 +26,6 @@ Interactive courses.
   October 2018.
 \newblock Accessed: 2022-3-6.
 
-\bibitem{harris2010digital}
-David Harris and Sarah~L Harris.
-\newblock {\em Digital design and computer architecture}.
-\newblock Morgan Kaufmann, 2010.
-\newblock Accessed: 2022-3-8.
-
 \bibitem{STRM-1-Book-Taha-Zerrouki}
 {Dr.Taha Zerrouki}.
 \newblock Strm 1 book.
@@ -39,6 +33,12 @@ David Harris and Sarah~L Harris.
   \url{https://archive.org/details/strm-1-book-taha-zerrouki-09-10-2021/STRM-1-Book-Taha-Zerrouki-25-12-2021/},
   October 2021.
 \newblock Accessed: 2022-3-7.
+
+\bibitem{harris2010digital}
+David Harris and Sarah~L Harris.
+\newblock {\em Digital design and computer architecture}.
+\newblock Morgan Kaufmann, 2010.
+\newblock Accessed: 2022-3-8.
 
 \bibitem{STRM-Tests}
 {Dr.Taha Zerrouki}.
