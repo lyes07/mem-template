@@ -2,6 +2,17 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {1.1}{\ignorespaces Structure of STRM\relax }}{3}{figure.caption.4}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Titre figure 2\relax }}{9}{figure.caption.8}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{9}{subfigure.1.1}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{9}{subfigure.1.2}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces UML\relax }}{10}{figure.caption.8}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Use Case diagram.\relax }}{13}{figure.caption.16}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces COURSE Sequence diagram.\relax }}{15}{figure.caption.18}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces QUIZ Sequence diagram.\relax }}{17}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces TEST Sequence diagram.\relax }}{19}{figure.caption.22}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces ABOUT Sequence diagram.\relax }}{21}{figure.caption.24}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Class Diagram.\relax }}{22}{figure.caption.26}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Database's Class Diagram.\relax }}{24}{figure.caption.29}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Precision vs $\alpha $\relax }}{28}{figure.caption.31}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {user$_1$}}}{28}{subfigure.1.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {user$_2$}}}{28}{subfigure.1.2}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {user$_3$}}}{28}{subfigure.1.3}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {user$_4$}}}{28}{subfigure.1.4}%

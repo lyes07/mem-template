@@ -68,4 +68,39 @@ David Harris and Sarah~L Harris.
   September 2018.
 \newblock Accessed: 2022-3-8.
 
+\bibitem{Techopedia-UML}
+{Techopedia}.
+\newblock Uml.
+\newblock
+  \url{https://www.techopedia.com/definition/3243/unified-modeling-language-uml#what-does-unified-modeling-language-uml-mean},
+  November 2012.
+\newblock Accessed: 2022-4-30.
+
+\bibitem{YThi-UML}
+{YThi}.
+\newblock Uml definition.
+\newblock
+  \url{https://ythi.net/abbreviations/english/what-does-uml-mean-what-is-the-full-form-of-uml/}.
+\newblock Accessed: 2022-4-30.
+
+\bibitem{Techopedia-DS}
+{Techopedia}.
+\newblock Sequence diagram.
+\newblock
+  \url{https://www.techopedia.com/definition/27490/sequence-diagram-uml}.
+\newblock Accessed: 2022-5-3.
+
+\bibitem{Techopedia-DC}
+{Techopedia}.
+\newblock Class diagram.
+\newblock \url{https://www.techopedia.com/definition/16466/class-diagram}.
+\newblock Accessed: 2022-5-6.
+
+\bibitem{Techopedia-relational-model}
+{Techopedia}.
+\newblock Relational data model.
+\newblock
+  \url{https://www.techopedia.com/definition/21680/relational-data-model}.
+\newblock Accessed: 2022-5-7.
+
 \end{thebibliography}

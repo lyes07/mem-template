@@ -721,20 +721,84 @@ INPUT .\chapitre2.tex
 INPUT chapitre2.tex
 INPUT .\chapitre2.tex
 INPUT chapitre2.tex
-INPUT .\img\Paysage1.jpg
-INPUT .\img\Paysage1.jpg
-INPUT img\Paysage1.jpg
-INPUT .\img\Paysage1.jpg
-INPUT .\img\Paysage1.jpg
-INPUT .\img\Paysage1.jpg
-INPUT .\img\Paysage1.jpg
-INPUT .\img\Miky.jpeg
-INPUT .\img\Miky.jpeg
-INPUT img\Miky.jpeg
-INPUT .\img\Miky.jpeg
-INPUT .\img\Miky.jpeg
-INPUT .\img\Miky.jpeg
-INPUT .\img\Miky.jpeg
+INPUT .\img\UML.png
+INPUT .\img\UML.png
+INPUT img\UML.png
+INPUT .\img\UML.png
+INPUT .\img\UML.png
+INPUT .\img\UML.png
+INPUT .\img\UML.png
+INPUT .\img\Use Case.pdf
+INPUT .\img\Use Case.pdf
+INPUT img\Use Case.pdf
+INPUT .\img\Use Case.pdf
+INPUT .\img\Use Case.pdf
+INPUT .\img\Use Case.pdf
+INPUT .\img\Course Sequence diagram.pdf
+INPUT .\img\Course Sequence diagram.pdf
+INPUT img\Course Sequence diagram.pdf
+INPUT .\img\Course Sequence diagram.pdf
+INPUT .\img\Course Sequence diagram.pdf
+INPUT .\img\Course Sequence diagram.pdf
+INPUT .\img\Quiz Sequence diagram.pdf
+INPUT .\img\Quiz Sequence diagram.pdf
+INPUT img\Quiz Sequence diagram.pdf
+INPUT .\img\Quiz Sequence diagram.pdf
+INPUT .\img\Quiz Sequence diagram.pdf
+INPUT .\img\Quiz Sequence diagram.pdf
+INPUT .\img\Test Sequence diagram.pdf
+INPUT .\img\Test Sequence diagram.pdf
+INPUT img\Test Sequence diagram.pdf
+INPUT .\img\Test Sequence diagram.pdf
+INPUT .\img\Test Sequence diagram.pdf
+INPUT .\img\Test Sequence diagram.pdf
+INPUT .\img\About Sequence diagram.png
+INPUT .\img\About Sequence diagram.png
+INPUT img\About Sequence diagram.png
+INPUT .\img\About Sequence diagram.png
+INPUT .\img\About Sequence diagram.png
+INPUT .\img\About Sequence diagram.png
+INPUT .\img\About Sequence diagram.png
+INPUT .\img\UML class.pdf
+INPUT .\img\UML class.pdf
+INPUT img\UML class.pdf
+INPUT .\img\UML class.pdf
+INPUT .\img\UML class.pdf
+INPUT .\img\UML class.pdf
+INPUT .\img\BDD class.pdf
+INPUT .\img\BDD class.pdf
+INPUT img\BDD class.pdf
+INPUT .\img\BDD class.pdf
+INPUT .\img\BDD class.pdf
+INPUT .\img\BDD class.pdf
+INPUT .\chapitre3.tex
+INPUT chapitre3.tex
+INPUT .\chapitre3.tex
+INPUT chapitre3.tex
+INPUT .\img\pVSa1-eps-converted-to.pdf
+INPUT .\img\pVSa1-eps-converted-to.pdf
+INPUT img\pVSa1-eps-converted-to.pdf
+INPUT .\img\pVSa1-eps-converted-to.pdf
+INPUT .\img\pVSa1-eps-converted-to.pdf
+INPUT .\img\pVSa1-eps-converted-to.pdf
+INPUT .\img\pVSa2-eps-converted-to.pdf
+INPUT .\img\pVSa2-eps-converted-to.pdf
+INPUT img\pVSa2-eps-converted-to.pdf
+INPUT .\img\pVSa2-eps-converted-to.pdf
+INPUT .\img\pVSa2-eps-converted-to.pdf
+INPUT .\img\pVSa2-eps-converted-to.pdf
+INPUT .\img\pVSa3-eps-converted-to.pdf
+INPUT .\img\pVSa3-eps-converted-to.pdf
+INPUT img\pVSa3-eps-converted-to.pdf
+INPUT .\img\pVSa3-eps-converted-to.pdf
+INPUT .\img\pVSa3-eps-converted-to.pdf
+INPUT .\img\pVSa3-eps-converted-to.pdf
+INPUT .\img\pVSa4-eps-converted-to.pdf
+INPUT .\img\pVSa4-eps-converted-to.pdf
+INPUT img\pVSa4-eps-converted-to.pdf
+INPUT .\img\pVSa4-eps-converted-to.pdf
+INPUT .\img\pVSa4-eps-converted-to.pdf
+INPUT .\img\pVSa4-eps-converted-to.pdf
 INPUT .\memoire.bbl
 INPUT memoire.bbl
 INPUT .\memoire.bbl
@@ -751,6 +815,8 @@ INPUT C:\Latex\fonts\type1\public\amsfonts\cm\cmbxti10.pfb
 INPUT C:\Latex\fonts\type1\public\amsfonts\cm\cmbxti10.pfb
 INPUT C:\Latex\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
 INPUT C:\Latex\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
+INPUT C:\Latex\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Latex\fonts\type1\public\amsfonts\cm\cmmi12.pfb
 INPUT C:\Latex\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Latex\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Latex\fonts\type1\public\amsfonts\cm\cmr12.pfb
