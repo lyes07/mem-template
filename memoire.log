@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.2.8)  11 MAY 2022 17:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.2.8)  10 JUN 2022 22:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -458,7 +458,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
  (page_garde.tex
-<logo.png, id=199, 119.44624pt x 158.5925pt>
+<logo.png, id=203, 119.44624pt x 158.5925pt>
 File: logo.png Graphic file (type png)
 <use logo.png>
 Package pdftex.def Info: logo.png  used on input line 5.
@@ -532,7 +532,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [2]
-<img/STRM.png, id=340, 686.565pt x 681.54625pt>
+<img/STRM.png, id=345, 686.565pt x 681.54625pt>
 File: img/STRM.png Graphic file (type png)
 <use img/STRM.png>
 Package pdftex.def Info: img/STRM.png  used on input line 54.
@@ -609,7 +609,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--21
 
  []
 
-<img/UML.png, id=406, 220.825pt x 160.6pt>
+<img/UML.png, id=411, 220.825pt x 160.6pt>
 File: img/UML.png Graphic file (type png)
 <use img/UML.png>
 Package pdftex.def Info: img/UML.png  used on input line 34.
@@ -654,7 +654,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [12]
 
 pdfTeX warning: pdflatex (file ./img/Use Case.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/Use Case.pdf, id=431, 894.34125pt x 751.10611pt>
+<img/Use Case.pdf, id=436, 894.34125pt x 751.10611pt>
 File: img/Use Case.pdf Graphic file (type pdf)
 <use img/Use Case.pdf>
 Package pdftex.def Info: img/Use Case.pdf  used on input line 90.
@@ -687,7 +687,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [14]
 
 pdfTeX warning: pdflatex (file ./img/Course Sequence diagram.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/Course Sequence diagram.pdf, id=502, 439.94362pt x 722.7pt>
+<img/Course Sequence diagram.pdf, id=507, 439.94362pt x 722.7pt>
 File: img/Course Sequence diagram.pdf Graphic file (type pdf)
 <use img/Course Sequence diagram.pdf>
 Package pdftex.def Info: img/Course Sequence diagram.pdf  used on input line 140.
@@ -710,7 +710,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [16]
 
 pdfTeX warning: pdflatex (file ./img/Quiz Sequence diagram.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/Quiz Sequence diagram.pdf, id=547, 439.94362pt x 605.26125pt>
+<img/Quiz Sequence diagram.pdf, id=552, 439.94362pt x 605.26125pt>
 File: img/Quiz Sequence diagram.pdf Graphic file (type pdf)
 <use img/Quiz Sequence diagram.pdf>
 Package pdftex.def Info: img/Quiz Sequence diagram.pdf  used on input line 190.
@@ -733,7 +733,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [18]
 
 pdfTeX warning: pdflatex (file ./img/Test Sequence diagram.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/Test Sequence diagram.pdf, id=590, 439.94362pt x 487.8225pt>
+<img/Test Sequence diagram.pdf, id=595, 439.94362pt x 487.8225pt>
 File: img/Test Sequence diagram.pdf Graphic file (type pdf)
 <use img/Test Sequence diagram.pdf>
 Package pdftex.def Info: img/Test Sequence diagram.pdf  used on input line 241.
@@ -754,7 +754,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [20]
-<img/About Sequence diagram.png, id=629, 1483.5425pt x 1578.89874pt>
+<img/About Sequence diagram.png, id=634, 1483.5425pt x 1578.89874pt>
 File: img/About Sequence diagram.png Graphic file (type png)
 <use img/About Sequence diagram.png>
 Package pdftex.def Info: img/About Sequence diagram.png  used on input line 288.
@@ -779,7 +779,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 301--303
 
 
 pdfTeX warning: pdflatex (file ./img/UML class.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/UML class.pdf, id=640, 1055.945pt x 730.32848pt>
+<img/UML class.pdf, id=645, 1055.945pt x 730.32848pt>
 File: img/UML class.pdf Graphic file (type pdf)
 <use img/UML class.pdf>
 Package pdftex.def Info: img/UML class.pdf  used on input line 310.
@@ -831,7 +831,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 359--360
 
 
 pdfTeX warning: pdflatex (file ./img/BDD class.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<img/BDD class.pdf, id=677, 1055.945pt x 482.40225pt>
+<img/BDD class.pdf, id=682, 1055.945pt x 482.40225pt>
 File: img/BDD class.pdf Graphic file (type pdf)
 <use img/BDD class.pdf>
 Package pdftex.def Info: img/BDD class.pdf  used on input line 364.
@@ -900,37 +900,32 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [26]
 Chapter 3.
-
-Overfull \hbox (15.77211pt too wide) in paragraph at lines 13--13
-[]\OT1/cmr/bx/n/14.4 Exemple d'insertion de 04 fig-ures (par ex-em-ple les resultats): 
- []
-
-
-LaTeX Warning: Reference `fig:Results' on page 27 undefined on input line 15.
-
-<img/pVSa1-eps-converted-to.pdf, id=716, 361.35pt x 252.945pt>
-File: img/pVSa1-eps-converted-to.pdf Graphic file (type pdf)
-<use img/pVSa1-eps-converted-to.pdf>
-Package pdftex.def Info: img/pVSa1-eps-converted-to.pdf  used on input line 19.
-(pdftex.def)             Requested size: 180.67456pt x 126.47218pt.
-<img/pVSa2-eps-converted-to.pdf, id=717, 361.35pt x 252.945pt>
-File: img/pVSa2-eps-converted-to.pdf Graphic file (type pdf)
-<use img/pVSa2-eps-converted-to.pdf>
-Package pdftex.def Info: img/pVSa2-eps-converted-to.pdf  used on input line 20.
-(pdftex.def)             Requested size: 180.67456pt x 126.47218pt.
-<img/pVSa3-eps-converted-to.pdf, id=718, 361.35pt x 252.945pt>
-File: img/pVSa3-eps-converted-to.pdf Graphic file (type pdf)
-<use img/pVSa3-eps-converted-to.pdf>
-Package pdftex.def Info: img/pVSa3-eps-converted-to.pdf  used on input line 21.
-(pdftex.def)             Requested size: 180.67456pt x 126.47218pt.
-<img/pVSa4-eps-converted-to.pdf, id=719, 361.35pt x 252.945pt>
-File: img/pVSa4-eps-converted-to.pdf Graphic file (type pdf)
-<use img/pVSa4-eps-converted-to.pdf>
-Package pdftex.def Info: img/pVSa4-eps-converted-to.pdf  used on input line 22.
-(pdftex.def)             Requested size: 180.67456pt x 126.47218pt.
 [27
 
 ]
+
+LaTeX Warning: Reference `fig:Results' on page 28 undefined on input line 39.
+
+<img/pVSa1-eps-converted-to.pdf, id=725, 361.35pt x 252.945pt>
+File: img/pVSa1-eps-converted-to.pdf Graphic file (type pdf)
+<use img/pVSa1-eps-converted-to.pdf>
+Package pdftex.def Info: img/pVSa1-eps-converted-to.pdf  used on input line 43.
+(pdftex.def)             Requested size: 180.67456pt x 126.47218pt.
+<img/pVSa2-eps-converted-to.pdf, id=726, 361.35pt x 252.945pt>
+File: img/pVSa2-eps-converted-to.pdf Graphic file (type pdf)
+<use img/pVSa2-eps-converted-to.pdf>
+Package pdftex.def Info: img/pVSa2-eps-converted-to.pdf  used on input line 44.
+(pdftex.def)             Requested size: 180.67456pt x 126.47218pt.
+<img/pVSa3-eps-converted-to.pdf, id=727, 361.35pt x 252.945pt>
+File: img/pVSa3-eps-converted-to.pdf Graphic file (type pdf)
+<use img/pVSa3-eps-converted-to.pdf>
+Package pdftex.def Info: img/pVSa3-eps-converted-to.pdf  used on input line 45.
+(pdftex.def)             Requested size: 180.67456pt x 126.47218pt.
+<img/pVSa4-eps-converted-to.pdf, id=728, 361.35pt x 252.945pt>
+File: img/pVSa4-eps-converted-to.pdf Graphic file (type pdf)
+<use img/pVSa4-eps-converted-to.pdf>
+Package pdftex.def Info: img/pVSa4-eps-converted-to.pdf  used on input line 46.
+(pdftex.def)             Requested size: 180.67456pt x 126.47218pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -954,7 +949,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[30] (memoire.bbl
+[30]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[31] (memoire.bbl
 Underfull \hbox (badness 2269) in paragraph at lines 4--9
 []\OT1/cmr/m/n/12 Techopedia.  Web-site.  [][]$https : / / www . techopedia . com / denition / 5411 / website.$[][],
  []
@@ -969,7 +972,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--36
 \OT1/cmr/m/n/12 strm-[]1-[]book-[]taha-[]zerrouki-[]09-[]10-[]2021 / STRM-[]1-[]Book-[]Taha-[]Zerrouki-[]25-[]12-[]2021/$[][],
  []
 
-[31
+[32
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 72--78
@@ -999,7 +1002,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[32] (memoire.aux)
+[33] (memoire.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -1007,20 +1010,20 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `memoire.out' has not changed.
-(rerunfilecheck)             Checksum: 100F5940F0EFDF8D1685F10947B6A449;7949.
+(rerunfilecheck)             Checksum: 490CDB27B2B9B44CFF611D61E3A38171;7829.
  ) 
 Here is how much of TeX's memory you used:
- 12698 strings out of 478659
- 204292 string characters out of 2862874
+ 12700 strings out of 478659
+ 204315 string characters out of 2862874
  543644 words of memory out of 3000000
  30449 multiletter control sequences out of 15000+600000
  413326 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,12n,79p,626b,508s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Latex/fonts/enc/dvips/base/8r.enc} <C:\Users\LENOVO\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Latex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Latex/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Latex/fonts/type1/urw/times/utmr8a.pfb>
-Output written on memoire.pdf (38 pages, 505839 bytes).
+Output written on memoire.pdf (39 pages, 507472 bytes).
 PDF statistics:
- 899 PDF objects out of 1000 (max. 8388607)
- 144 named destinations out of 1000 (max. 500000)
- 471 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 910 PDF objects out of 1000 (max. 8388607)
+ 146 named destinations out of 1000 (max. 500000)
+ 479 words of extra memory for PDF output out of 10000 (max. 10000000)
 
