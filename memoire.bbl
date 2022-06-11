@@ -103,4 +103,23 @@ David Harris and Sarah~L Harris.
   \url{https://www.techopedia.com/definition/21680/relational-data-model}.
 \newblock Accessed: 2022-5-7.
 
+\bibitem{Del_Sole2021-cv}
+Alessandro Del~Sole.
+\newblock Introducing visual studio code.
+\newblock In {\em Visual Studio Code Distilled}, pages 1--15. Apress, Berkeley,
+  CA, 2021.
+\newblock Accessed: 2022-6-11.
+
+\bibitem{kinder2013sublime}
+Ken Kinder.
+\newblock Sublime text: one editor to rule them all?
+\newblock {\em Linux Journal}, 2013(232):2, 2013.
+\newblock Accessed: 2022-6-11.
+
+\bibitem{dvorski2007installing}
+Dalibor~D Dvorski.
+\newblock Installing, configuring, and developing with xampp.
+\newblock {\em Skills Canada}, 2007.
+\newblock Accessed: 2022-6-11.
+
 \end{thebibliography}

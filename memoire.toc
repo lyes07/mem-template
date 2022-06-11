@@ -55,13 +55,14 @@
 \contentsline {section}{\numberline {3.1} Introduction:}{27}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Work environment:}{27}{section.3.2}%
 \contentsline {subsection}{\numberline {3.2.1}Hardware:}{27}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Une sous section}{28}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}Une une autre sous section}{29}{subsection.3.2.3}%
-\contentsline {subsubsection}{Une sous sous section}{29}{section*.32}%
-\contentsline {paragraph}{Un paragraphe}{29}{section*.33}%
+\contentsline {subsection}{\numberline {3.2.2}Software:}{28}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Une sous section}{29}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Une une autre sous section}{30}{subsection.3.2.4}%
+\contentsline {subsubsection}{Une sous sous section}{30}{section*.32}%
+\contentsline {paragraph}{Un paragraphe}{30}{section*.33}%
 \contentsline {section}{\numberline {3.3}Une deuxième section principale}{30}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Une sous section}{30}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Une autre sous section}{30}{subsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.3}Une autre sous section}{30}{subsection.3.3.3}%
-\contentsline {section}{\numberline {3.4}Conclusion}{31}{section.3.4}%
-\contentsline {chapter}{Bibliography}{32}{section.3.4}%
+\contentsline {subsection}{\numberline {3.3.1}Une sous section}{31}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Une autre sous section}{31}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Une autre sous section}{31}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}Conclusion}{32}{section.3.4}%
+\contentsline {chapter}{Bibliography}{33}{section.3.4}%
