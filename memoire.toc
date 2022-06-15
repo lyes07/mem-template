@@ -1,68 +1,86 @@
 \babel@toc {english}{}\relax 
-\contentsline {chapter}{Contents}{i}{figure.caption.1}%
-\contentsline {chapter}{Table of figures}{iii}{figure.caption.1}%
-\contentsline {chapter}{List of tables}{iv}{figure.caption.1}%
-\contentsline {chapter}{Abreviations list}{v}{figure.caption.1}%
-\contentsline {chapter}{\numberline {1}Preliminary study}{1}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Introduction}{1}{section.1.1}%
-\contentsline {section}{\numberline {1.2}General Definitions}{1}{section.1.2}%
-\contentsline {subsection}{\numberline {1.2.1}Website}{1}{subsection.1.2.1}%
-\contentsline {subsection}{\numberline {1.2.2}Responsive Web Design}{1}{subsection.1.2.2}%
-\contentsline {subsection}{\numberline {1.2.3}Interactive Course}{2}{subsection.1.2.3}%
-\contentsline {subsection}{\numberline {1.2.4}Computer Architecture}{2}{subsection.1.2.4}%
-\contentsline {subsubsection}{In general}{2}{section*.2}%
-\contentsline {subsubsection}{In our case}{2}{section*.3}%
-\contentsline {section}{\numberline {1.3}Study of the existing}{3}{section.1.3}%
-\contentsline {subsection}{\numberline {1.3.1}Structure of the computer architecture course}{3}{subsection.1.3.1}%
-\contentsline {subsection}{\numberline {1.3.2}Computer architecture course}{4}{subsection.1.3.2}%
-\contentsline {subsubsection}{Digital Design and Computer Architecture :}{4}{section*.5}%
-\contentsline {subsubsection}{STRM 1 Book :}{4}{section*.6}%
-\contentsline {section}{\numberline {1.4}Analysis of existing applications}{5}{section.1.4}%
-\contentsline {subsection}{\numberline {1.4.1}STRM Tests :}{5}{subsection.1.4.1}%
-\contentsline {subsection}{\numberline {1.4.2}CS301 Computer Architecture :}{6}{subsection.1.4.2}%
-\contentsline {subsection}{\numberline {1.4.3}BooleanTT :}{6}{subsection.1.4.3}%
-\contentsline {subsection}{\numberline {1.4.4}DecToBin :}{7}{subsection.1.4.4}%
-\contentsline {subsection}{\numberline {1.4.5}Summary :}{7}{subsection.1.4.5}%
-\contentsline {section}{\numberline {1.5}Conclusion}{8}{section.1.5}%
-\contentsline {chapter}{\numberline {2}Conceptual study}{9}{chapter.2}%
-\contentsline {section}{\numberline {2.1}introduction}{9}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Graphic design :}{9}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Modeling}{9}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}definition of Unified Modeling language:}{10}{subsection.2.2.2}%
-\contentsline {section}{\numberline {2.3}Specication and needs analysis:}{10}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Basic functions of the application:}{10}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Non-functional needs:}{11}{subsection.2.3.2}%
-\contentsline {subsubsection}{Ergonomic interfaces:}{11}{section*.9}%
-\contentsline {subsubsection}{Reliability and speed:}{11}{section*.10}%
-\contentsline {subsubsection}{The code:}{11}{section*.11}%
-\contentsline {section}{\numberline {2.4}Detailed design:}{11}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Use Cas diagram:}{11}{subsection.2.4.1}%
-\contentsline {subsubsection}{System:}{11}{section*.12}%
-\contentsline {subsubsection}{actors:}{12}{section*.13}%
-\contentsline {subsubsection}{use cases:}{12}{section*.14}%
-\contentsline {subsubsection}{Relations:}{12}{section*.15}%
-\contentsline {subsection}{\numberline {2.4.2}Sequence diagrams:}{13}{subsection.2.4.2}%
-\contentsline {subsection}{\numberline {2.4.3}COURSE:}{13}{subsection.2.4.3}%
-\contentsline {subsection}{\numberline {2.4.4}QUIZ:}{15}{subsection.2.4.4}%
-\contentsline {subsection}{\numberline {2.4.5}TEST:}{17}{subsection.2.4.5}%
-\contentsline {subsection}{\numberline {2.4.6}ABOUT:}{19}{subsection.2.4.6}%
-\contentsline {subsection}{\numberline {2.4.7}Class Diagram:}{21}{subsection.2.4.7}%
-\contentsline {subsubsection}{Why Class Diagram?}{22}{section*.25}%
-\contentsline {subsubsection}{Database's Class Diagram:}{24}{section*.28}%
-\contentsline {subsection}{\numberline {2.4.8}The relational model and creation of the Database:}{25}{subsection.2.4.8}%
-\contentsline {section}{\numberline {2.5}Conclusion:}{26}{section.2.5}%
+\contentsline {paragraph}{}{1}{section*.2}%
+\contentsline {paragraph}{}{5}{section*.4}%
+\contentsline {paragraph}{}{5}{section*.6}%
+\contentsline {chapter}{Contents}{i}{section*.6}%
+\contentsline {chapter}{Table of figures}{iv}{section*.6}%
+\contentsline {chapter}{List of tables}{v}{section*.6}%
+\contentsline {chapter}{Abreviations list}{vi}{section*.6}%
+\contentsline {chapter}{General Introduction}{1}{section*.6}%
+\contentsline {paragraph}{}{1}{section*.7}%
+\contentsline {paragraph}{}{1}{section*.8}%
+\contentsline {paragraph}{}{1}{section*.9}%
+\contentsline {paragraph}{}{2}{section*.10}%
+\contentsline {paragraph}{}{2}{section*.11}%
+\contentsline {chapter}{\numberline {1}Preliminary study}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Introduction}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}General Definitions}{3}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Computer Architecture}{3}{subsection.1.2.1}%
+\contentsline {subsubsection}{In general}{3}{section*.12}%
+\contentsline {subsubsection}{In our case}{3}{section*.13}%
+\contentsline {subsection}{\numberline {1.2.2}Interactive Course}{4}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Responsive Web Design}{4}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}Website}{4}{subsection.1.2.4}%
+\contentsline {section}{\numberline {1.3}Study of the existing}{5}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Structure of the computer architecture course}{5}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Computer architecture course}{6}{subsection.1.3.2}%
+\contentsline {subsubsection}{Digital Design and Computer Architecture }{6}{section*.15}%
+\contentsline {subsubsection}{STRM 1 Book }{6}{section*.16}%
+\contentsline {section}{\numberline {1.4}Analysis of existing applications}{7}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}STRM Tests }{7}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}CS301 Computer Architecture }{8}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}BooleanTT }{8}{subsection.1.4.3}%
+\contentsline {subsection}{\numberline {1.4.4}DecToBin }{9}{subsection.1.4.4}%
+\contentsline {subsection}{\numberline {1.4.5}Summary }{9}{subsection.1.4.5}%
+\contentsline {section}{\numberline {1.5}Conclusion}{10}{section.1.5}%
+\contentsline {chapter}{\numberline {2}Conceptual study}{11}{chapter.2}%
+\contentsline {section}{\numberline {2.1}introduction}{11}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Graphic design }{11}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Modeling}{11}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Definition of Unified Modeling language}{12}{subsection.2.2.2}%
+\contentsline {section}{\numberline {2.3}Specification and needs analysis}{12}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Basic functions of the application}{12}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Non-functional needs}{12}{subsection.2.3.2}%
+\contentsline {subsubsection}{Ergonomic interfaces}{13}{section*.18}%
+\contentsline {subsubsection}{Reliability and speed}{13}{section*.19}%
+\contentsline {subsubsection}{The code}{13}{section*.20}%
+\contentsline {section}{\numberline {2.4}Detailed design}{13}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Use Case diagram}{13}{subsection.2.4.1}%
+\contentsline {subsubsection}{System}{13}{section*.21}%
+\contentsline {subsubsection}{Actors}{13}{section*.22}%
+\contentsline {subsubsection}{Use cases}{13}{section*.23}%
+\contentsline {subsubsection}{Relations}{14}{section*.24}%
+\contentsline {subsection}{\numberline {2.4.2}Sequence diagrams}{15}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}COURSE}{15}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}QUIZ}{17}{subsection.2.4.4}%
+\contentsline {subsection}{\numberline {2.4.5}TEST}{19}{subsection.2.4.5}%
+\contentsline {subsection}{\numberline {2.4.6}Class Diagram}{21}{subsection.2.4.6}%
+\contentsline {subsubsection}{Why Class Diagram?}{22}{section*.32}%
+\contentsline {subsubsection}{Database's Class Diagram}{24}{section*.35}%
+\contentsline {subsection}{\numberline {2.4.7}The relational model and creation of the Database}{25}{subsection.2.4.7}%
+\contentsline {section}{\numberline {2.5}Conclusion}{26}{section.2.5}%
 \contentsline {chapter}{\numberline {3}Implementation and evaluation}{27}{chapter.3}%
-\contentsline {section}{\numberline {3.1} Introduction:}{27}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Work environment:}{27}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Hardware:}{27}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Software:}{28}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}Une sous section}{29}{subsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.2.4}Une une autre sous section}{30}{subsection.3.2.4}%
-\contentsline {subsubsection}{Une sous sous section}{30}{section*.32}%
-\contentsline {paragraph}{Un paragraphe}{30}{section*.33}%
-\contentsline {section}{\numberline {3.3}Une deuxième section principale}{30}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Une sous section}{31}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Une autre sous section}{31}{subsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.3}Une autre sous section}{31}{subsection.3.3.3}%
-\contentsline {section}{\numberline {3.4}Conclusion}{32}{section.3.4}%
-\contentsline {chapter}{Bibliography}{33}{section.3.4}%
+\contentsline {section}{\numberline {3.1} Introduction}{27}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Work environment}{27}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Hardware}{27}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Software}{28}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}Used programming languages}{29}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}HTML: HyperText Markup Language}{29}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}CSS: Cascading Style Sheets}{29}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}JavaScript — Dynamic client-side scripting}{29}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}MySQL — Dynamic client-side scripting}{29}{subsection.3.3.4}%
+\contentsline {section}{\numberline {3.4}Presentation of graphical interfaces}{30}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Home page interface}{30}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Course page interface}{32}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Try interface}{33}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}Quiz interface}{34}{subsection.3.4.4}%
+\contentsline {subsection}{\numberline {3.4.5}Test interface}{34}{subsection.3.4.5}%
+\contentsline {section}{\numberline {3.5}Hosting}{34}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Conclusion}{34}{section.3.6}%
+\contentsline {chapter}{Conclusion générale et perspectives}{38}{section.3.6}%
+\contentsline {paragraph}{}{38}{section*.50}%
+\contentsline {paragraph}{}{38}{section*.51}%
+\contentsline {paragraph}{}{38}{section*.52}%
+\contentsline {paragraph}{}{39}{section*.53}%
+\contentsline {paragraph}{}{39}{section*.54}%
+\contentsline {chapter}{Bibliography}{40}{section*.54}%
