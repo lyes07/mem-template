@@ -36,11 +36,11 @@ The main requirements which are specifically related to the behavior and functio
 \subsection{Non-functional needs}
 These are the most important major requirements not specifically related to the behavior of the system but rather the identification of internal and external constraints of the system :
 \subsubsection{Ergonomic interfaces}
-the solution must present an ergonomic interface encompassing all the functionalities. The manipulation of the interface should not require advanced computer knowledge, it must be simple and clear in order to adapt to the computer knowledge of the users.
+The solution must present an ergonomic interface encompassing all the functionalities. The manipulation of the interface should not require advanced computer knowledge, it must be simple and clear in order to adapt to the computer knowledge of the users.
 \subsubsection{Reliability and speed}
 The system must guarantee the speed and reliability of the search for information, as well as optimal management of resources.
 \subsubsection{The code}
-Must be clear to allow future evolutions or improvements.
+Must be clear to allow future evolutions or improvements.\cite{github}
 
 
 
@@ -58,7 +58,7 @@ Specify a role played by a user or any other system interacting with the subject
 \subsubsection{Use cases}
 describes functionalities of the system .In this system :
 \begin{enumerate}
-	\item COURSE : When user click on COURSE he can see the hole CHAPTERS of the course, when he click on try in each TITLE of CHAPTERS a question window will apear with a specific type of question depends on the chapter's TITLE.
+	\item COURSE : When user click on COURSE he can see the whole CHAPTERS of the course, when he click on try in each TITLE of CHAPTERS a question window will apear with a specific type of question depends on the chapter's TITLE.
 	\item QUIZ : When user click on QUIZ he can test what he learned in this course with a specific Options (choose chapters and number of questions), when clicking on start a question window will apear.
 	\item TEST : When user click on TEST he will find a practical models for machine structure tests including the whole course.
 \end{enumerate}
@@ -71,7 +71,6 @@ describes functionalities of the system .In this system :
 
 The figure \ref{fig:UseCaseD} represents this system's Use Case Diagram.
 
-\newpage
 %***************************************************
 \begin{figure*}[ht]
 	\centering
@@ -86,9 +85,8 @@ A sequence diagram, in the context of UML, represents object collaboration and i
 A sequence diagram is also known as a timing diagram, event diagram and event scenario.\cite{Techopedia-DS}
 
 \subsection{COURSE}
-This first scenario shows how user can see the hole CHAPTERS of the course, and try  a question with a specific type depends on the chapter's TITLE.
+This first scenario shows how user can see the whole CHAPTERS of the course, and try  a question with a specific type depends on the chapter's TITLE.
 
-\newpage
 
 \begin{table}[h!]
 	\begin{center}
@@ -271,22 +269,22 @@ The table \ref{tab:DC} represents classes and attributes as well as their types 
  		\hline
  		Course & C-id & Course identificator. & Digital  \\
 			& name-chapter & Chapter's name. & Alphabetic \\
-			& name-title & Title's name. & Alphabetic \\
+			& name-section & Section's name. & Alphabetic \\
 		\hline
 		Quiz & Q-id & Quiz identificator. & Digital  \\
 			& select-chpt & Choosing chapter. & Digital \\
-			& nbr-qst & Number of questions. & Digital \\
 		\hline
 		Test & T-id & Test identificator. & Digital  \\
 			& List-Question & List of questions. & Alphabetic \\
-			& all-chpt & Choosing from all chapters. & Digital \\
 		\hline
 		Question & qst-id & Question identificator. & Digital  \\
-			& nbr-qst & Number of questions. & Digital \\
-			& select-chpt & Choosing chapter. & Digital \\
-			& name-chapter & Chapter's name. & Alphabetic \\
-			& name-title & Title's name. & Alphabetic \\
-			& all-chpt & Choosing from all chapters. & Digital \\
+			& qst-text & Questions text. & Alphabetic \\
+			& opt & Questions options. & Alphabetic \\
+			& answer & Questions answer. & Alphabetic \\
+			& explication & Answer explication. & Alphabetic \\
+
+			& qst-type & Questions type. & Alphabetic \\
+			& chapter & Chapter's number. & Digital \\
 		\hline
 \end{tabular}
 \end{center}
@@ -322,22 +320,22 @@ The table \ref{tab:BDD DC} represents classes and attributes of database's class
  		\hline \hline
  		Course & C-id & Course identificator. & Digital  \\
 			& name-chapter & Chapter's name. & Alphabetic \\
-			& name-title & Title's name. & Alphabetic \\
+			& name-section & Section's name. & Alphabetic \\
 		\hline
 		Quiz & Q-id & Quiz identificator. & Digital  \\
 			& select-chpt & Choosing chapter. & Digital \\
-			& nbr-qst & Number of questions. & Digital \\
 		\hline
 		Test & T-id & Test identificator. & Digital  \\
 			& List-Question & List of questions. & Alphabetic \\
-			& all-chpt & Choosing from all chapters. & Digital \\
 		\hline
 		Question & qst-id & Question identificator. & Digital  \\
-			& nbr-qst & Number of questions. & Digital \\
-			& select-chpt & Choosing chapter. & Digital \\
-			& name-chapter & Chapter's name. & Alphabetic \\
-			& name-title & Title's name. & Alphabetic \\
-			& all-chpt & Choosing from all chapters. & Digital \\
+			& qst-text & Questions text. & Alphabetic \\
+			& opt & Questions options. & Alphabetic \\
+			& answer & Questions answer. & Alphabetic \\
+			& explication & Answer explication. & Alphabetic \\
+
+			& qst-type & Questions type. & Alphabetic \\
+			& chapter & Chapter's number. & Digital \\
 		\hline
 \end{tabular}
 \end{center}
@@ -349,10 +347,10 @@ The table \ref{tab:BDD DC} represents classes and attributes of database's class
 \subsection{The relational model and creation of the Database}
 
 A relational data model involves the use of data tables that collect groups of elements into relations. These models work based on the idea that each table setup will include a primary key or identifier. Other tables use that identifier to provide "relational" data links and results. Database administrators use something called Structured Query Language (SQL) to retrieve data elements from a relational database.\cite{Techopedia-relational-model} \\
-Course(C-id,\#name-chapter,\#name-title).\\
-Quiz(Q-id,\#select-chpt,\#nbr-qst).\\
-Test(T-id,List-Question,\#all-chpt).\\
-Question(qst-id,nbr-qst,select-chpt,name-chapter,name-title,all-chpt).\\
+Course(C-id,\#name-chapter).\\
+Quiz(Q-id,\#select-chpt).\\
+Test(T-id,List-Question).\\
+Question(qst-id,qst-text,opt,answer,explication,qst-type,chapter).\\
 
 
 \section{Conclusion}

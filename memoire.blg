@@ -6,45 +6,45 @@ The style file: unsrt.bst
 Reallocating 'name_of_file' (item size: 1) to 7 items.
 Database file #1: biblio.bib
 Warning--empty year in prog-MI
-You've used 22 entries,
+You've used 23 entries,
             1791 wiz_defined-function locations,
-            570 strings with 6439 characters,
-and the built_in function-call counts, 3248 in all, are:
-= -- 300
-> -- 90
+            575 strings with 6533 characters,
+and the built_in function-call counts, 3382 in all, are:
+= -- 312
+> -- 94
 < -- 1
-+ -- 44
-- -- 22
++ -- 46
+- -- 23
 * -- 68
-:= -- 521
-add.period$ -- 87
-call.type$ -- 22
-change.case$ -- 20
+:= -- 542
+add.period$ -- 91
+call.type$ -- 23
+change.case$ -- 21
 chr.to.int$ -- 0
-cite$ -- 23
-duplicate$ -- 149
-empty$ -- 398
-format.name$ -- 22
-if$ -- 762
+cite$ -- 24
+duplicate$ -- 154
+empty$ -- 416
+format.name$ -- 23
+if$ -- 794
 int.to.chr$ -- 0
-int.to.str$ -- 22
+int.to.str$ -- 23
 missing$ -- 10
-newline$ -- 133
-num.names$ -- 20
-pop$ -- 119
+newline$ -- 139
+num.names$ -- 21
+pop$ -- 126
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 58
+skip$ -- 60
 stack$ -- 0
 substring$ -- 22
-swap$ -- 27
+swap$ -- 28
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 1
-while$ -- 24
-width$ -- 24
-write$ -- 257
+while$ -- 25
+width$ -- 25
+write$ -- 268
 (There was 1 warning)
