@@ -65,19 +65,19 @@
 \contentsline {section}{\numberline {3.2}Work environement}{26}{section.3.2}%
 \contentsline {subsection}{\numberline {3.2.1}Hardware}{26}{subsection.3.2.1}%
 \contentsline {subsection}{\numberline {3.2.2}Software}{27}{subsection.3.2.2}%
-\contentsline {section}{\numberline {3.3}Used programming languages}{28}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}HTML: HyperText Markup Language}{28}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}CSS: Cascading Style Sheets}{28}{subsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.3}JavaScript — Dynamic client-side scripting}{28}{subsection.3.3.3}%
-\contentsline {subsection}{\numberline {3.3.4}MySQL — Dynamic client-side scripting}{28}{subsection.3.3.4}%
-\contentsline {section}{\numberline {3.4}Presentation of graphical interfaces}{29}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}Home page interface}{29}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}Course page interface}{31}{subsection.3.4.2}%
-\contentsline {subsection}{\numberline {3.4.3}Try interface}{32}{subsection.3.4.3}%
-\contentsline {subsection}{\numberline {3.4.4}Quiz interface}{33}{subsection.3.4.4}%
-\contentsline {subsection}{\numberline {3.4.5}Test interface}{33}{subsection.3.4.5}%
-\contentsline {section}{\numberline {3.5}Hosting}{33}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Conclusion}{33}{section.3.6}%
+\contentsline {section}{\numberline {3.3}Used programming languages}{29}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}HTML: HyperText Markup Language}{29}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}CSS: Cascading Style Sheets}{29}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}JavaScript — Dynamic client-side scripting}{29}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}MySQL — Structured Query Language}{29}{subsection.3.3.4}%
+\contentsline {section}{\numberline {3.4}Presentation of graphical interfaces}{30}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Home page interface}{30}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Course page interface}{32}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Try interface}{34}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}Quiz interface}{36}{subsection.3.4.4}%
+\contentsline {subsection}{\numberline {3.4.5}Test interface}{36}{subsection.3.4.5}%
+\contentsline {section}{\numberline {3.5}Hosting}{36}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Conclusion}{36}{section.3.6}%
 \contentsline {chapter}{Conclusion générale et perspectives}{37}{section.3.6}%
 \contentsline {paragraph}{}{37}{section*.52}%
 \contentsline {paragraph}{}{37}{section*.53}%
